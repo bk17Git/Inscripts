@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /* .pdf$
+Crawl-Delay: 15
+Sitemap: https://www.inscriptsbooks.com/sitemap.xml
